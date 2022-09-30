@@ -1,0 +1,13 @@
+.App h1 {
+  color: chocolate;
+}
+.App form {
+  background-color: antiquewhite;
+  padding: 60px 3rem;
+}
+.App form input {
+  display: block;
+  margin: 20px 1rem;
+}
+
+/*# sourceMappingURL=App.css.map */
